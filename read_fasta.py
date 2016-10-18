@@ -1,5 +1,5 @@
 
-# Reads a fasta file and prints the sequence to standard out.
+# Reads a fasta file. Then print the sequence to the terminal.
 import sys
 
 def read_fasta(filename):
@@ -20,3 +20,5 @@ if len(sys.argv) < 2:
 print read_fasta(sys.argv[1])
 
 ## that's all folks
+
+I am writing on this file
