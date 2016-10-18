@@ -1,3 +1,5 @@
+
+# Reads a fasta file and prints the sequence to standard out.
 import sys
 
 def read_fasta(filename):
