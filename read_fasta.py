@@ -20,3 +20,5 @@ if len(sys.argv) < 2:
 print read_fasta(sys.argv[1])
 
 ## that's all folks
+
+I am writing on this file
